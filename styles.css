@@ -1,0 +1,10 @@
+.main-nav {
+    border: 1px solid red;
+    display: flex;
+    justify-content: center;   
+}
+
+.nav-list {
+    display: flex;
+    flex-direction: row;
+}
